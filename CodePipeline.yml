@@ -19,7 +19,7 @@ Parameters:
     Default: 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
   ContainerPort:
     Type: Number
-    Default: 8080
+    Default: 80
 
 Resources:
 
