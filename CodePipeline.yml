@@ -7,16 +7,16 @@ Parameters:
     Default: dev
   GithubUserName:
     Type: String
-    Default: <USERNAME>
+    Default: jahirshawon
   GithubRepo:
     Type: String
-    Default: Fargate-ECSCluster-Cloudformation
+    Default: cloudformation-git-ecr-ecs-alb
   GithubBranch:
     Type: String
-    Default: <BRANCH>
+    Default: main
   GithubOAuthToken:
     Type: String
-    Default: <GITHUB ACCESS TOKEN>
+    Default: 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
   ContainerPort:
     Type: Number
     Default: 8080
