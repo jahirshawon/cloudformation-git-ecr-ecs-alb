@@ -5,7 +5,7 @@ Parameters:
   Stage:
     Type: String
   ContainerPort:
-    Type: Number
+    Type: 80
   ImageURI:
     Type: String
 
